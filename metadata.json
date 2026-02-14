@@ -1,0 +1,8 @@
+
+{
+  "name": "TripRoute Visualizer",
+  "description": "An interactive trip route visualizer that transforms static GPS data into fluid, immersive 3D narratives and high-fidelity 2D maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
